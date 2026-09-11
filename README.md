@@ -17,6 +17,7 @@ This project is an end-to-end data analytics pipeline designed to evaluate the T
 2. **Data Cleaning & Normalization:** Built a robust Python script to flatten the nested JSON architecture. Used `Regex` to extract numerical values from text strings (e.g., bedrooms, bathrooms) and built error-handling logic to bypass `null` values without breaking the pipeline.
 3. **Data Storage & SQL Modeling:** Pushed the cleaned Pandas DataFrame into a cloud-hosted **Supabase PostgreSQL** database using `SQLAlchemy`. Wrote SQL queries using `RANK() OVER(PARTITION BY...)` Window Functions to compare individual property prices against moving category averages. 
 4. **Statistical Analysis:** Brought the clean data back into Python to run an OLS Regression model. Discovered that adding a bedroom holds a highly statistically significant impact on nightly revenue (P < 0.001), while luxury ratings showed negligible impact on pricing power.
+
 *Here is the terminal output of the OLS Regression Model, proving the statistical significance of bedroom count on pricing:*
 ```text
                             OLS Regression Results                            
@@ -31,4 +32,6 @@ bedrooms     524.8766    121.459      4.321      0.000     282.509     767.244
 bathrooms    232.2898    238.686      0.973      0.334    -244.001     708.581
 rating       224.5623   1612.843      0.139      0.890   -2993.816    3442.940
 ==============================================================================
+```
+
 6. **Data Visualization:** Built an executive-level geospatial dashboard in Tableau. Applied Edward Tufte's data-ink ratio principles to design a minimalist heatmap and interactive trend charts, allowing investors to filter real estate targets by expected ROI.
