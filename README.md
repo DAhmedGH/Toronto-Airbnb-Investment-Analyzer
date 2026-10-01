@@ -81,7 +81,7 @@ The Tableau dashboard provides two views of the corrected **149-listing** snapsh
 
 The map retains listings with missing bedroom or rating metadata, while the bedroom comparison excludes unknown bedroom counts rather than treating them as zero.
 
-[View the Tableau dashboard](https://public.tableau.com/app/profile/danieal.ahmed/viz/TorontoShort-TermRentalInvestmentAnalyzer/TorontoShort-TermRentalInvestmentAnalyzer)
+[View the Tableau dashboard](https://public.tableau.com/views/TorontoShort-TermRentalInvestmentAnalyzer/TorontoShort-TermRentalPricingAnalyzer)
 
 ## Repository structure
 
