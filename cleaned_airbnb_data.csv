@@ -1,73 +1,150 @@
-id,name,latitude,longitude,price,rating,bedrooms,bathrooms
-RGVtYW5kU3RheUxpc3Rpbmc6MTc2OTA2ODUzMDIxMzY4MDU3MQ==,Sunset Views | Entertainment District | Parking,43.649,-79.3884,865.0,4.95,1,1
-RGVtYW5kU3RheUxpc3Rpbmc6MTc2NTY4MjMwNDA1MzE1NDk5NA==,Sweet Home ,43.7597,-79.2103,942.0,4.95,3,2
-RGVtYW5kU3RheUxpc3Rpbmc6MTc1NjAwNDgwNTM1MDc2ODQ1Mw==,Debonair 3BR family home - 15 min to airport. ,43.6499,-79.5417,1080.0,4.95,3,2
-RGVtYW5kU3RheUxpc3Rpbmc6MjYxMDIxMDE=,Newly Renovated  Ideally Located Annex Ensuite,43.67148,-79.40934,415.0,4.96,0,1
-RGVtYW5kU3RheUxpc3Rpbmc6NDgwODE3NzQ=,Bright Private Basement Suite | 1BR Near Subway,43.66466,-79.41735,710.0,4.98,1,1
-RGVtYW5kU3RheUxpc3Rpbmc6MTE1NjAxNjQ3NTEzMjI3NTAyMg==,Cozy 5BR | 4 Bath | 10 Min to DT | Free Parking,43.68869,-79.35526,1358.0,4.93,5,3
-RGVtYW5kU3RheUxpc3Rpbmc6MzM3MTYzODM=,Rachel's Room,43.66575,-79.38436,375.0,4.97,0,1
-RGVtYW5kU3RheUxpc3Rpbmc6MTc3MDAzMzczMjY1MTIyMjc2NQ==,"Waterfront Energy, City Comfort + 1 Free Parking",43.63565811592185,-79.40192655360958,918.0,4.95,1,1
-RGVtYW5kU3RheUxpc3Rpbmc6MTcyNTQ0ODU0MjQ5OTAzMDY1NQ==,Brand New Modern Basement Apartment,43.5812,-79.7734,515.0,4.95,1,1
-RGVtYW5kU3RheUxpc3Rpbmc6MTc3MDE2NDA0NDkyODUxMDYxMg==,City Life by the Waterfront + 1 Free Parking,43.63622393708174,-79.40191266975857,806.0,4.95,1,1
-RGVtYW5kU3RheUxpc3Rpbmc6MTc1NTEwMzk0NDcwMzAxMDE4Mw==,Sky-High Views Heart of Toronto + 1 Free Parking,43.66306242548895,-79.3854680909502,1988.0,5.0,3,2
-RGVtYW5kU3RheUxpc3Rpbmc6MTc0OTM3NTEwNTY3MDM2Nzc1MA==,Steps from It All in Downtown Toronto,43.64820333689984,-79.39382643518596,1092.0,5.0,1,1
-RGVtYW5kU3RheUxpc3Rpbmc6MTU5OTAwMTkyNzMyNTU0OTIzNA==,Skyline Views | Walk to CN Tower + Parking!,43.64123851773097,-79.3968129749227,1305.0,5.0,2,2
-RGVtYW5kU3RheUxpc3Rpbmc6MTc1MTU3MTYwOTQ2MzE5NzkyNA==,Modern Condo by CN Tower & Rogers Centre,43.6419,-79.3818,841.0,5.0,1,1
-RGVtYW5kU3RheUxpc3Rpbmc6MTc1NjI4NDYxMDkxNTk2NzIxMg==,Stylish & Cozy Lake View (4 Beds W/ Parking),43.64839750378201,-79.3872656975008,1482.0,4.95,3,2
-RGVtYW5kU3RheUxpc3Rpbmc6MTY5NjU3ODgxMDk2NzU1MTcyMw==,Walker’s Paradise | Scotiabank Arena | Sleeps 10 ,43.642,-79.382,2406.0,5.0,4,2
-RGVtYW5kU3RheUxpc3Rpbmc6MTEyOTkwNDkxMzY1NTMxNTkwNQ==,"Stunning Skyline View Condo, Steps to CN Tower",43.64423,-79.38937,1312.0,4.92,1,1
-RGVtYW5kU3RheUxpc3Rpbmc6MTY4NjE4NzkxNjAwMjY1MzA3NA==,3BR Exec Townhome near Distillery + Free Parking,43.648,-79.3645,1657.0,5.0,3,1
-RGVtYW5kU3RheUxpc3Rpbmc6MTc0MzQ5NjQ4ODUzODIzNDgxNg==,Modern Condo Near Waterfront + 1 Free Parking,43.63654,-79.40715,1122.0,5.0,2,2
-RGVtYW5kU3RheUxpc3Rpbmc6MTc0ODc2MzIyNjM1MTc1NjE4NQ==,Downtown 1BR+Den | Steps to TMU & Eaton Centre,43.656990616161124,-79.37335682119303,1170.0,5.0,2,1
-RGVtYW5kU3RheUxpc3Rpbmc6MTY3NzMwNjg4NDYwODEwODQ4Mw==,Luxury 1+Den w/ Parking | Downtown Toronto,43.67113,-79.42456,948.0,4.96,1,1
-RGVtYW5kU3RheUxpc3Rpbmc6MTc3MDM2NTM3NjUyNDA5NjYzNQ==,Downtown 3BR Retreat | Walk to CN Tower,43.64124,-79.39761,2087.0,4.95,3,2
-RGVtYW5kU3RheUxpc3Rpbmc6MTIwMDg5NDQ3NDMzOTYzNDUyOA==,"Modern Luxury Home, DT, 7 beds, 5 Star, 14 Guests+",43.66511,-79.36757,2518.0,4.84,4,2
-RGVtYW5kU3RheUxpc3Rpbmc6MTc0NzI4OTc3ODI2MzM4MzIzNA==,"3BR Condo w/ Terrace, Parking & Skyline Views",43.6549,-79.4448,1520.0,5.0,3,2
-RGVtYW5kU3RheUxpc3Rpbmc6MjYxODMyMDM=,Stylish 1870s Home near Distillery District & Old Toronto,43.65434,-79.36116,2238.0,4.99,2,1
-RGVtYW5kU3RheUxpc3Rpbmc6MTc2MTE3OTA5MTU0NzU1NTU3OQ==,The Cozy 2 Bedroom Suite - Free Parking & Balcony,43.6398,-79.398,910.0,4.67,2,2
-RGVtYW5kU3RheUxpc3Rpbmc6MTc1MTU2OTEyMjQwMjE3ODk0NA==,Beautiful room in a quiet house in North York.,43.798,-79.3424,218.0,4.95,0,1
-RGVtYW5kU3RheUxpc3Rpbmc6Mzg0Mzc0ODU=,Luxury Lakeview 3BR+2BA Condo • Subway & BMO Field,43.649,-79.3884,2479.0,4.96,3,2
-RGVtYW5kU3RheUxpc3Rpbmc6MTcwNDU0NTIyMzY3NzY0MTk3OA==,Waterfront Condo | Lakeview Escape | Free Parking,43.63662,-79.40327,1391.0,4.98,1,1
-RGVtYW5kU3RheUxpc3Rpbmc6MTY5ODI1MjAyMTcyNTg5Nzk5Mg==,Luxury CN Tower Studio | Steps to Scotiabank Arena,43.64379,-79.38135,1324.0,5.0,1,1
-RGVtYW5kU3RheUxpc3Rpbmc6MTM0MDYxMzcwMTEwMDA5ODk5Mg==,Kimchi Loft in Koreatown,43.6646,-79.4145,1252.0,4.98,2,1
-RGVtYW5kU3RheUxpc3Rpbmc6MTY1MjYxODAyMzY3NDA0MjE3OQ==,Luxury Suite in Prime Downtown,43.64264,-79.38192,972.0,4.97,1,1
-RGVtYW5kU3RheUxpc3Rpbmc6MTM5NzM3MTQ=,Luxury 4BR: 365 Days Open- Heated Pool & Hot Tub,43.6671,-79.2996,5749.0,4.99,4,3
-RGVtYW5kU3RheUxpc3Rpbmc6MTI3ODI0NDYyMjI2NjMwODI3MQ==,Cozy in the City,43.7311,-79.5723,1091.0,5.0,2,2
-RGVtYW5kU3RheUxpc3Rpbmc6MTEzNjU4MjA0Mjc4OTI0NDM2Nw==,Private Pool Lakeview House,43.7349,-79.21408,3849.0,4.93,5,4
-RGVtYW5kU3RheUxpc3Rpbmc6MjQzNTE3MDc=,A)Toronto [8-Min Walk2Subway] 2.5 Baths+Parking ,43.72371,-79.45532,336.0,4.98,0,2
-RGVtYW5kU3RheUxpc3Rpbmc6MTI4MjcwNDYzNTgyMjM0NTQ1NQ==,2BR Suite #3 | King + Queen | Danforth Music Hall,43.6764,-79.357,1049.0,4.99,2,1
-RGVtYW5kU3RheUxpc3Rpbmc6MTc0MzE1NzQxNTMxMzg4NjQzOQ==,"Spacious Basement Suite, Parking & Fast Transit",43.69207,-79.30486,725.0,5.0,1,1
-RGVtYW5kU3RheUxpc3Rpbmc6MTc1NTA2MzAzODg5NDEyNDgzNQ==,Prime Downtown Location + 1 Free Parking,43.64663531100807,-79.39340278170329,1006.0,5.0,1,1
-RGVtYW5kU3RheUxpc3Rpbmc6Mjk2OTM2MQ==,Tree top gem - Downtown Toronto,43.65822,-79.37251,758.0,4.99,1,1
-RGVtYW5kU3RheUxpc3Rpbmc6MTI4Nzc3NzA0Njg3MzE0MjkyMA==,King Studio #1 | Danforth Music Hall | Greektown,43.6765,-79.3569,983.0,5.0,1,1
-RGVtYW5kU3RheUxpc3Rpbmc6MTc0OTk2MzEzMjUzNzUxMTk4Ng==,Modern 2BR Haven | City Views,43.6717,-79.3882,1000.0,4.95,2,2
-RGVtYW5kU3RheUxpc3Rpbmc6MTU4NTExMjk5NTM1MTM5NzEyOQ==,Spacious Suite｜Free Parking ｜Shared Kitchen,43.76609,-79.38044,520.0,4.97,0,1
-RGVtYW5kU3RheUxpc3Rpbmc6OTg5MzMxMTI3NzYzODAxOTI1,Lakeview Condo in the heart of Downtown Toronto,43.6417,-79.382,790.0,4.93,1,1
-RGVtYW5kU3RheUxpc3Rpbmc6MTczNDA0Mzk0MTc5OTg5NjQ1Ng==,Breathtaking CN Tower & Lake View | Free Parking,43.6422,-79.3816,1196.0,4.88,1,1
-RGVtYW5kU3RheUxpc3Rpbmc6MTc1NTg4Mjk5OTY3NDgyOTU3Mg==,1 bed centrally located downtown,43.645,-79.3911,1040.0,4.95,1,1
-RGVtYW5kU3RheUxpc3Rpbmc6MTY3OTM3NjE3NTI3ODM0ODg1OQ==,Modern Downtown Studio with Patio,43.65819,-79.37466,815.0,4.95,0,1
-RGVtYW5kU3RheUxpc3Rpbmc6OTQ0OTk3MzIwNzU2Njk5MzU1,Bright Luxury Condo | City & Ocean Views,43.59,-79.6409,834.0,5.0,2,2
-RGVtYW5kU3RheUxpc3Rpbmc6NTk1NTQ4NTEzMjk3Mjc1ODkw,Cherry Blossom House - Overlooking Park,43.6514,-79.47059,1352.0,4.91,4,3
-RGVtYW5kU3RheUxpc3Rpbmc6MTY0MDY1Mjg1MzE5NDAwNzc0Mg==,Park Prestige | 5BR Modern Family Home + Parking,43.64226,-79.45033,3115.0,4.94,5,4
-RGVtYW5kU3RheUxpc3Rpbmc6MTc1ODcwNDYzMTA4Njg5MTQ5MQ==,Unique 3 Bedroom | Walk to CN Tower/Rogers Centre ,43.6443,-79.3894,1301.0,5.0,3,2
-RGVtYW5kU3RheUxpc3Rpbmc6MTY2MjUyMDI2MTE0MTU2NzI2OA==,Downsview Oasis,43.73104,-79.49885,461.0,5.0,1,1
-RGVtYW5kU3RheUxpc3Rpbmc6ODkxMjg1MzUwOTMxNzQ1MDAx,John-Peter Toronto,43.64532,-79.39051,1944.0,4.99,2,2
-RGVtYW5kU3RheUxpc3Rpbmc6ODk0MDIwNjE3NTUwMjUxMTYz,Bright & Beautiful Single's Room,43.66415,-79.45867,222.0,4.93,0,1
-RGVtYW5kU3RheUxpc3Rpbmc6MTc0NDQwNDkyNjM2NTM0MjEyOA==,The Vertex Suites,43.6475,-79.3927,1241.0,4.95,1,1
-RGVtYW5kU3RheUxpc3Rpbmc6MTc2ODIzMjUyNjQ4MTYxNDEyNw==,Practical Fort York Condo | Walk to The Bentway,43.637714340736046,-79.4061240517531,754.0,4.95,1,1
-RGVtYW5kU3RheUxpc3Rpbmc6MTU3Njk4MjA2NTA5OTkxNTAwMw==,The Soho Brownstone - The City on Your Doorstep,43.65192,-79.394,4181.0,5.0,4,2
-RGVtYW5kU3RheUxpc3Rpbmc6MTI1NzY5NTI2ODU3NzcxMzg4OA==,Cozy Corner,43.67935,-79.4317,368.0,4.99,0,1
-RGVtYW5kU3RheUxpc3Rpbmc6ODA3MzE2MDgwNjEyNjAyMzI4,Beautiful 4 BR detached home in Vaughan,43.80596,-79.46048,1484.0,4.95,4,2
-RGVtYW5kU3RheUxpc3Rpbmc6MTc3OTQyMzY=,3 Bedroom 2 Bath Waterfront Condo w Free Parking,43.64285,-79.38186,1741.0,4.92,3,2
-RGVtYW5kU3RheUxpc3Rpbmc6MTc0MTQwMjcwOTc0MTkxOTE1NQ==,Elegant 3BR Suite with Beautiful Living Room,43.6443,-79.3894,1608.0,4.95,3,2
-RGVtYW5kU3RheUxpc3Rpbmc6NzM5MDcyOA==,Brookfield Hideaway Guest Suite,43.64486,-79.42158,442.0,4.88,0,1
-RGVtYW5kU3RheUxpc3Rpbmc6MTc1Njc3ODczODM3MTQzMDgwNQ==,67th Floor Penthouse | 3BR Lake & City Views,43.64138,-79.39638,2433.0,4.95,3,2
-RGVtYW5kU3RheUxpc3Rpbmc6MTc1MDkyNjA2OTAwMTQ5NTg1OQ==,Pine & Post,43.6475,-79.3927,1278.0,4.95,1,1
-RGVtYW5kU3RheUxpc3Rpbmc6MTYzNTMxODcwMDM5MjU0MTUwMA==,Bright and Breezy:Central Light Wood Suite+Parking,43.64173,-79.38251,1436.0,4.85,2,1
-RGVtYW5kU3RheUxpc3Rpbmc6MTc1MDE2MjA0MzYxMDc0NTcyNg==,Spacious 3 Bedroom Condo with Huge Private Patio,43.7678,-79.3732,939.0,4.95,3,2
-RGVtYW5kU3RheUxpc3Rpbmc6MTYzMTM4Ng==,Private Room in Downtown Toronto RM3,43.66368,-79.44037,334.0,4.83,0,1
-RGVtYW5kU3RheUxpc3Rpbmc6MTYxNzU1NTAzNTE1MDgzMTA3Mw==,"2,500 sq ft | Penthouse | Scotiabank Arena",43.6429,-79.3807,4683.0,4.82,3,3
-RGVtYW5kU3RheUxpc3Rpbmc6MjQwMTM4NjM=,Luxury 4BR | Sleeps 10 | Rooftop | Free Parking,43.6382,-79.41459,2489.0,4.82,4,2
-RGVtYW5kU3RheUxpc3Rpbmc6MTQxNTI0MTE5MjE3NTEyNzMzMQ==,Modern Condo | Breathtaking Views | CN Tower | BMO,43.644,-79.3893,1449.0,4.95,1,1
-RGVtYW5kU3RheUxpc3Rpbmc6Mjk2NzM4Mzk=,Grand & Luxurious Historic Home | Central Toronto,43.68016,-79.43338,6979.0,5.0,6,3
-RGVtYW5kU3RheUxpc3Rpbmc6MTY5ODgxMzU1MTEwNzc3NzkzMg==,Large Lakeview High Floor With 5 Queen Beds,43.64123,-79.39657,2795.0,4.75,3,2
+id,name,latitude,longitude,price,rating,bedrooms,bathrooms,stay_qualifier,checkin,checkout,listing_type,location_label,currency_symbol
+RGVtYW5kU3RheUxpc3Rpbmc6MTc2OTA2ODUzMDIxMzY4MDU3MQ==,Sunset Views | Entertainment District | Parking,43.649,-79.3884,865,,1.0,1.0,for 5 nights,2026-10-11,2026-10-16,Apartment,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTc2NTY4MjMwNDA1MzE1NDk5NA==,Sweet Home ,43.7597,-79.2103,942,,3.0,2.0,for 5 nights,2026-09-20,2026-09-25,Bungalow,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTc1NjAwNDgwNTM1MDc2ODQ1Mw==,Debonair 3BR family home - 15 min to airport. ,43.6499,-79.5417,1080,,3.0,2.5,for 5 nights,2026-10-12,2026-10-17,Home,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MjYxMDIxMDE=,Newly Renovated  Ideally Located Annex Ensuite,43.67148,-79.40934,415,4.96,,1.0,for 5 nights,2026-12-08,2026-12-13,Room,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTcyNzA3NDk3ODAxMjM2MDQ0MA==,Modern Condo | Near Eaton Centre & TMU,43.6569,-79.3745,719,4.92,1.0,1.0,for 5 nights,2026-11-19,2026-11-24,Apartment,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTc2ODY4ODk2NTk5ODAwMzQxOA==,High rise beautiful view ,43.662,-79.3857,1080,,2.0,2.0,for 5 nights,2026-09-27,2026-10-02,Apartment,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6NDgwODE3NzQ=,Bright Private Basement Suite | 1BR Near Subway,43.66466,-79.41735,710,4.98,1.0,1.0,for 5 nights,2026-09-13,2026-09-18,Guest suite,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTE1NjAxNjQ3NTEzMjI3NTAyMg==,Cozy 5BR | 4 Bath | 10 Min to DT | Free Parking,43.68869,-79.35526,1358,4.93,5.0,3.5,for 5 nights,2026-12-07,2026-12-12,Home,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MzM3MTYzODM=,Rachel's Room,43.66575,-79.38436,375,4.97,,1.0,for 5 nights,2026-11-25,2026-11-30,Room,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTc3MDAzMzczMjY1MTIyMjc2NQ==,"Waterfront Energy, City Comfort + 1 Free Parking",43.63565811592185,-79.40192655360958,918,,1.0,1.0,for 5 nights,2026-09-28,2026-10-03,Apartment,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTcyNTQ0ODU0MjQ5OTAzMDY1NQ==,Brand New Modern Basement Apartment,43.5812,-79.7734,515,,1.0,1.0,for 5 nights,2026-09-20,2026-09-25,Apartment,Mississauga,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTc3MDE2NDA0NDkyODUxMDYxMg==,City Life by the Waterfront + 1 Free Parking,43.63622393708174,-79.40191266975857,806,,1.0,1.0,for 5 nights,2026-10-04,2026-10-09,Apartment,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6NzcyNzY5ODU5Mzk4ODU0NDU3,Private 3BR Whole Home for Groups Near Subway,43.66661,-79.41753,1618,4.99,3.0,2.5,for 5 nights,2026-09-28,2026-10-03,Home,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTc1NTEwMzk0NDcwMzAxMDE4Mw==,Sky-High Views Heart of Toronto + 1 Free Parking,43.66306242548895,-79.3854680909502,1988,5.0,3.0,2.0,for 5 nights,2026-10-23,2026-10-28,Apartment,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTczMDM0OTQ2Njc5NjA4MDIzOQ==,Quiet Family Four Bedroom Home in Lytton Park,43.7123,-79.41894,1379,5.0,4.0,3.0,for 5 nights,2026-09-18,2026-09-23,Home,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTY0Mzc3MzI3MTAxNzExNjMxNw==,3-Bed Suite w/ Free Parking- 20 mins to Downtown,43.69388,-79.27055,1710,5.0,3.0,2.5,for 5 nights,2026-09-16,2026-09-21,Home,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTc2NjkxNTkxNTg2MDIwNDU3Mw==,"1 bedroom, in-suite laundry, bathroom & parking ",43.69434,-79.43454,505,,1.0,1.0,for 5 nights,2026-09-21,2026-09-26,Place to stay,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTc3MDYxMzgzNzAwOTEzMjA0Mg==,"Two bedrooms, one bathroom, shared kitchen space",43.7935,-79.3701,488,,2.0,1.0,for 5 nights,2026-09-14,2026-09-19,Place to stay,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTc0OTM3NTEwNTY3MDM2Nzc1MA==,Steps from It All in Downtown Toronto,43.64820333689984,-79.39382643518596,1092,5.0,1.0,1.0,for 5 nights,2026-10-02,2026-10-07,Apartment,Downtown Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTYzODcyODYwMTAxODg3OTAyNw==,Expansive 3BR Downtown Condo with Patio,43.6398,-79.398,1507,5.0,3.0,2.0,for 5 nights,2026-09-27,2026-10-02,Apartment,Downtown Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTY4NTYwNzE2MDUyNjYwMTQyMw==,Gorgeous-st Lawrence Market - Unobstucted view,43.65048,-79.36638,847,4.88,1.0,1.0,for 5 nights,2026-09-27,2026-10-02,Apartment,Downtown Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTU5OTAwMTkyNzMyNTU0OTIzNA==,Skyline Views | Walk to CN Tower + Parking!,43.64123851773097,-79.3968129749227,1305,5.0,2.0,2.0,for 5 nights,2026-10-21,2026-10-26,Apartment,Downtown Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTc1MDI5MDI0MjUzODA3MTM0MA==,Downtown 1BR+Den | City Views & Close to It All,43.65844179994599,-79.37355132184992,840,5.0,2.0,1.0,for 5 nights,2026-10-25,2026-10-30,Apartment,Downtown Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6NTk2NDk1MDg0MjA5ODMwMzY0,Toronto CN Tower 2 Bed 2 B w Master King w Parking,43.6441,-79.3894,1417,4.85,2.0,2.0,for 5 nights,2026-10-24,2026-10-29,Condo,Downtown Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTY2NDQ1MjUyODIxODc0NjYxNw==,Modern condo steps from CN Tower and Rogers Centre,43.64136,-79.38309,1304,4.88,2.0,1.5,for 5 nights,2026-10-11,2026-10-16,Condo,Downtown Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6Njk1NzE0NTY1NDY4NjkxMzE0,"Charming Condo w Parking, CN Tower View & Pool",43.6441,-79.3894,1149,4.94,1.0,1.0,for 5 nights,2026-10-25,2026-10-30,Condo,Downtown Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTY5MTYzNDQyNzk4MDg5MTYxMA==,"Steps to GO ex, bmo/coca cola, RBC stage, 1 parkin",43.637,-79.4198,959,4.97,1.0,1.0,for 5 nights,2026-10-06,2026-10-11,Apartment,Liberty Village,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTc1MDkwNjMzNTUyNTMxMDgyOQ==,Modern 2BR in the Entertainment Hub with Parking!,43.64653374332382,-79.39216131887669,1452,5.0,2.0,2.0,for 5 nights,2026-09-26,2026-10-01,Apartment,Downtown Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTcwMTQ1MzQ0ODU3MzAzMjg3Mg==,Elevated Downtown Living + 1 Free Parking,43.66153,-79.38775,984,5.0,1.0,1.0,for 5 nights,2026-10-05,2026-10-10,Apartment,Downtown Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTc1MTU3MTYwOTQ2MzE5NzkyNA==,Modern Condo by CN Tower & Rogers Centre,43.6419,-79.3818,841,5.0,1.0,1.0,for 5 nights,2026-10-25,2026-10-30,Apartment,Downtown Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTY0Mzg2NDQyNDUyODkzODkyNA==,"Designer Sub-Penthouse, Breathtaking Skyline View",43.6403,-79.3974,2103,4.96,3.0,2.0,for 5 nights,2026-09-28,2026-10-03,Apartment,Downtown Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTc1NjI4NDYxMDkxNTk2NzIxMg==,Stylish & Cozy Lake View (4 Beds W/ Parking),43.64839750378201,-79.3872656975008,1482,,3.0,2.0,for 5 nights,2026-09-28,2026-10-03,Apartment,Downtown Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6NzEwNzYxMzcwMTI1OTg4NzY5,Cozy small newly built Toronto Islands getaway,43.6331,-79.3547,927,4.95,1.0,1.0,for 5 nights,2026-10-04,2026-10-09,Guest suite,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTY5NjU3ODgxMDk2NzU1MTcyMw==,Walker’s Paradise | Scotiabank Arena | Sleeps 10 ,43.642,-79.382,2406,5.0,4.0,2.0,for 5 nights,2026-09-27,2026-10-02,Apartment,Downtown Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTEyOTkwNDkxMzY1NTMxNTkwNQ==,"Stunning Skyline View Condo, Steps to CN Tower",43.64423,-79.38937,1312,4.92,1.0,1.0,for 5 nights,2027-01-04,2027-01-09,Apartment,Downtown Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTcxOTE5NTIwNjAwNTM5MjIzOA==,"Luxury Condo, CN Tower, City Skyline & Lake Views",43.6443,-79.3894,1444,4.83,2.0,2.0,for 5 nights,2026-09-27,2026-10-02,Apartment,Downtown Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTY4NjE4NzkxNjAwMjY1MzA3NA==,3BR Exec Townhome near Distillery + Free Parking,43.648,-79.3645,1657,5.0,3.0,1.5,for 5 nights,2026-09-26,2026-10-01,Home,Downtown Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTcyMDU4MjUwMjY4NTEwODY0Mw==,"Modern Suite, Panoramic Views, Parking",43.6195,-79.5216,858,5.0,2.0,1.0,for 5 nights,2026-09-27,2026-10-02,Apartment,Mimico-Queensway,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTEwMzc1MDYzNzUyNDc4MzkyMg==,Modern 3BR Townhome | 3 Ensuites | near Subway ,43.77833,-79.42265,886,4.93,3.0,3.5,for 5 nights,2026-11-08,2026-11-13,Townhouse,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTc0MzQ5NjQ4ODUzODIzNDgxNg==,Modern Condo Near Waterfront + 1 Free Parking,43.63654,-79.40715,1122,5.0,2.0,2.0,for 5 nights,2026-09-27,2026-10-02,Apartment,Downtown Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTc0ODc2MzIyNjM1MTc1NjE4NQ==,Downtown 1BR+Den | Steps to TMU & Eaton Centre,43.656990616161124,-79.37335682119303,1170,5.0,2.0,1.0,for 5 nights,2026-10-03,2026-10-08,Apartment,Downtown Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTY3NzMwNjg4NDYwODEwODQ4Mw==,Luxury 1+Den w/ Parking | Downtown Toronto,43.67113,-79.42456,948,4.96,1.0,1.0,for 5 nights,2027-05-01,2027-05-06,Condo,Midtown,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTcxOTk2NzA5MTAyMDY4MDAyNA==,"CN Tower Views, Gym, Hot Tub, Prime Location",43.649,-79.3884,1695,5.0,2.0,2.0,for 5 nights,2026-09-28,2026-10-03,Condo,Downtown Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTc3MDM2NTM3NjUyNDA5NjYzNQ==,Downtown 3BR Retreat | Walk to CN Tower,43.64124,-79.39761,2087,,3.0,2.0,for 5 nights,2026-09-22,2026-09-27,Apartment,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTIwMDg5NDQ3NDMzOTYzNDUyOA==,"Modern Luxury Home, DT, 7 beds, 5 Star, 14 Guests+",43.66511,-79.36757,2518,4.84,4.0,2.5,for 5 nights,2026-09-27,2026-10-02,Home,Downtown Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6NTI0MTE5NzY=,Toronto  Vacation | ➊ The One Toronto Villa,43.7992,-79.3943,4016,4.92,5.0,3.5,for 5 nights,2026-09-14,2026-09-19,Villa,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTc0NzI4OTc3ODI2MzM4MzIzNA==,"3BR Condo w/ Terrace, Parking & Skyline Views",43.6549,-79.4448,1520,5.0,3.0,2.0,for 5 nights,2026-10-10,2026-10-15,Condo,Junction Triangle,$
+RGVtYW5kU3RheUxpc3Rpbmc6MjYxODMyMDM=,Stylish 1870s Home near Distillery District & Old Toronto,43.65434,-79.36116,2238,4.99,2.0,1.0,for 5 nights,2026-10-03,2026-10-08,Home,Downtown Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTc2MTE3OTA5MTU0NzU1NTU3OQ==,The Cozy 2 Bedroom Suite - Free Parking & Balcony,43.6398,-79.398,910,4.67,2.0,2.0,for 5 nights,2026-09-27,2026-10-02,Condo,Downtown Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTc1MTU2OTEyMjQwMjE3ODk0NA==,Beautiful room in a quiet house in North York.,43.798,-79.3424,218,,,1.0,for 5 nights,2026-09-26,2026-10-01,Room,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTc2OTU3MzkxODM5MTMwODI3Mw==,Spacious full Basement Apart |close to Airport,43.6989,-79.505,1326,,2.0,1.0,for 5 nights,2026-09-13,2026-09-18,Home,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6Mzg0Mzc0ODU=,Luxury Lakeview 3BR+2BA Condo • Subway & BMO Field,43.649,-79.3884,2479,4.96,3.0,2.0,for 5 nights,2026-11-09,2026-11-14,Condo,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTcwNDU0NTIyMzY3NzY0MTk3OA==,Waterfront Condo | Lakeview Escape | Free Parking,43.63662,-79.40327,1391,4.98,1.0,1.0,for 5 nights,2026-10-06,2026-10-11,Condo,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTY5ODI1MjAyMTcyNTg5Nzk5Mg==,Luxury CN Tower Studio | Steps to Scotiabank Arena,43.64379,-79.38135,1324,5.0,1.0,1.0,for 5 nights,2026-10-07,2026-10-12,Apartment,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTM0MDYxMzcwMTEwMDA5ODk5Mg==,Kimchi Loft in Koreatown,43.6646,-79.4145,1252,4.98,2.0,1.5,for 5 nights,2026-10-11,2026-10-16,Home,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTY1MjYxODAyMzY3NDA0MjE3OQ==,Luxury Suite in Prime Downtown,43.64264,-79.38192,972,4.97,1.0,1.0,for 5 nights,2026-10-03,2026-10-08,Apartment,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6OTIzOTU2Mjk4Mzk2ODk3MTY0,Canadiana Downtown Condo w/King Bed + Free Parking,43.6445,-79.3765,1394,4.92,2.0,2.0,for 5 nights,2026-09-27,2026-10-02,Apartment,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTM5NzM3MTQ=,Luxury 4BR: 365 Days Open- Heated Pool & Hot Tub,43.6671,-79.2996,5749,4.99,4.0,3.5,for 5 nights,2026-09-20,2026-09-25,Home,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTUzMzMzNzQyMTI0NjI4MjE2MQ==,Private and Comfortable Room in a Luxury House,43.80835,-79.38581,218,5.0,,1.0,for 5 nights,2026-10-20,2026-10-25,Room,Markham,$
+RGVtYW5kU3RheUxpc3Rpbmc6MzgyOTUyMDM=,Cozy Retreat not shared main floor 2nd picture,43.73171,-79.23778,323,4.94,1.0,1.0,for 5 nights,2026-10-05,2026-10-10,Place to stay,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTQ4MDgxMTM4MTc0NzY5OTkwMQ==,Private one bedroom suite,43.7069,-79.2588,489,5.0,1.0,1.0,for 5 nights,2026-11-01,2026-11-06,Guest suite,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTcwMDkwNzUyMjU2ODAyMjEzNQ==,Modern Luxury 2+1BR/2BA | Panoramic Views,43.66299,-79.38687,1611,4.95,3.0,2.0,for 5 nights,2026-10-09,2026-10-14,Apartment,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTY1NTUwMTYzOTc0NTM4NjY0OA==,2BR+Parking | Heart of Entertainment | CN Tower,43.63922,-79.39833,978,5.0,2.0,1.0,for 5 nights,2026-10-05,2026-10-10,Condo,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTI1MDMyODA2NjQxMDYwMTI4Ng==,"Home in Richmond Hill cozy, clean and friendly ",43.89435,-79.4523,1089,5.0,3.0,1.0,for 5 nights,2026-09-20,2026-09-25,Home,Richmond Hill,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTcwMzkyMjE1NTU3MjY2NzYyOA==,Spacious 2-Bedroom Basement Suite Near Everything,43.6494,-79.5783,630,4.89,2.0,1.5,for 5 nights,2026-10-25,2026-10-30,Home,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTI3ODI0NDYyMjI2NjMwODI3MQ==,Cozy in the City,43.7311,-79.5723,1091,5.0,2.0,2.0,for 5 nights,2026-10-04,2026-10-09,Home,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTEzNjU4MjA0Mjc4OTI0NDM2Nw==,Private Pool Lakeview House,43.7349,-79.21408,3849,4.93,5.0,4.0,for 5 nights,2026-09-27,2026-10-02,Home,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTc1OTYwNTcwOTcxOTA1Njg4NA==,Sunset Retreat | 2BR/2BA | CN Tower View + Parking,43.5902,-79.6402,1141,5.0,2.0,2.0,for 5 nights,2026-10-09,2026-10-14,Condo,Mississauga,$
+RGVtYW5kU3RheUxpc3Rpbmc6MjQzNTE3MDc=,A)Toronto [8-Min Walk2Subway] 2.5 Baths+Parking ,43.72371,-79.45532,336,4.98,,2.5,for 5 nights,2026-11-08,2026-11-13,Room,North York,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTI4MjcwNDYzNTgyMjM0NTQ1NQ==,2BR Suite #3 | King + Queen | Danforth Music Hall,43.6764,-79.357,1049,4.99,2.0,1.0,for 5 nights,2026-10-24,2026-10-29,Hotel,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTc0MzE1NzQxNTMxMzg4NjQzOQ==,"Spacious Basement Suite, Parking & Fast Transit",43.69207,-79.30486,725,5.0,1.0,1.0,for 5 nights,2026-10-10,2026-10-15,Home,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTc1NTA2MzAzODg5NDEyNDgzNQ==,Prime Downtown Location + 1 Free Parking,43.64663531100807,-79.39340278170329,1006,5.0,1.0,1.0,for 5 nights,2026-10-10,2026-10-15,Apartment,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6Mjk2OTM2MQ==,Tree top gem - Downtown Toronto,43.65822,-79.37251,758,4.99,1.0,1.0,for 5 nights,2027-04-15,2027-04-20,Apartment,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTI4Nzc3NzA0Njg3MzE0MjkyMA==,King Studio #1 | Danforth Music Hall | Greektown,43.6765,-79.3569,983,5.0,1.0,1.0,for 5 nights,2026-11-07,2026-11-12,Boutique hotel,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTcwNjAyMzQ1NTMxNTI5NjUyMQ==,Stylish Toronto Entertainment District Retreat,43.64672,-79.39392,849,4.9,1.0,1.0,for 5 nights,2026-10-10,2026-10-15,Apartment,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTc0OTk2MzEzMjUzNzUxMTk4Ng==,Modern 2BR Haven | City Views,43.6717,-79.3882,1000,,2.0,2.0,for 5 nights,2026-09-26,2026-10-01,Apartment,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTU4NTExMjk5NTM1MTM5NzEyOQ==,Spacious Suite｜Free Parking ｜Shared Kitchen,43.76609,-79.38044,520,4.97,,1.0,for 5 nights,2026-10-25,2026-10-30,Room,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTcxMDA4MTI1ODQ5MDYxNjMwOQ==,Stylish Stay Near the CN Tower,43.64287,-79.39065,981,4.81,1.0,1.0,for 5 nights,2026-09-28,2026-10-03,Apartment,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTcyNzI4MDYyMTU3NDc4NDE0NQ==,Stylish Stay Heart of Downtown Toronto,43.64817171349442,-79.39156354842841,843,4.88,1.0,1.0,for 5 nights,2026-09-27,2026-10-02,Apartment,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTcyNzgzMjk1OTQzNjg4NDY4Mg==,Chic Waterfront Studio Steps to DT Toronto,43.637,-79.4044,828,4.95,,1.0,for 5 nights,2026-10-06,2026-10-11,Apartment,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6OTg5MzMxMTI3NzYzODAxOTI1,Lakeview Condo in the heart of Downtown Toronto,43.6417,-79.382,790,4.93,1.0,1.0,for 5 nights,2026-11-08,2026-11-13,Apartment,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTcwMDgyOTQ2NzE4NzY1MzYxOA==,Modern boutique condo in Downtown Toronto,43.6446,-79.3764,1194,5.0,1.0,1.0,for 5 nights,2026-10-11,2026-10-16,Condo,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6OTcwMTk5MzAyMDAzMzE0Mjkw,Amazing Private Downtown Getaway,43.65149,-79.39196,458,4.97,,1.0,for 5 nights,2026-10-27,2026-11-01,Room,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTczNDA0Mzk0MTc5OTg5NjQ1Ng==,Breathtaking CN Tower & Lake View | Free Parking,43.6422,-79.3816,1196,4.88,1.0,1.0,for 5 nights,2026-10-18,2026-10-23,Condo,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTc1NTg4Mjk5OTY3NDgyOTU3Mg==,1 bed centrally located downtown,43.645,-79.3911,1040,,1.0,1.0,for 5 nights,2026-10-05,2026-10-10,Apartment,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTczNjM0NjEyNTgwNzE2NjUzMA==,The Poet's Royal Abode,43.64309,-79.38982,2337,,3.0,3.0,for 5 nights,2026-10-05,2026-10-10,Apartment,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTc2MDM3MTI0MDcyMjc3NzU0Nw==,"New Group Suite in Leslieville - Laundry, AC/Heat",43.6717933,-79.322948,1447,,3.0,1.5,for 5 nights,2026-09-16,2026-09-21,Hotel room,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTY3OTM3NjE3NTI3ODM0ODg1OQ==,Modern Downtown Studio with Patio,43.65819,-79.37466,815,4.95,,1.0,for 5 nights,2026-10-08,2026-10-13,Apartment,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6OTQ0OTk3MzIwNzU2Njk5MzU1,Bright Luxury Condo | City & Ocean Views,43.59,-79.6409,834,5.0,2.0,2.0,for 5 nights,2026-10-30,2026-11-04,Apartment,Mississauga,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTY2NDExNjQxMjAwMTU2MzcxMA==,"Bright, Minimalist Condo | Free Parking",43.64936,-79.36809,767,4.92,1.0,1.0,for 5 nights,2026-11-29,2026-12-04,Apartment,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6NzkwODg3,Downtown Central Suite,43.66414,-79.38351,489,4.94,,1.0,for 5 nights,2026-11-29,2026-12-04,Room,Downtown Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTY2MzE0NjI0Nzg4ODIwNTU4NA==,Private Basement Suite Greektown Near Subway,43.6837,-79.3476,518,5.0,1.0,1.0,for 5 nights,2026-11-03,2026-11-08,Apartment,East York,$
+RGVtYW5kU3RheUxpc3Rpbmc6NTk1NTQ4NTEzMjk3Mjc1ODkw,Cherry Blossom House - Overlooking Park,43.6514,-79.47059,1352,4.91,4.0,3.0,for 5 nights,2026-09-27,2026-10-02,Home,High Park,$
+RGVtYW5kU3RheUxpc3Rpbmc6NDIzNzY4NzQ=,"Independent Living, Private Studio",43.6702,-79.41243,476,4.94,1.0,1.0,for 5 nights,2026-12-07,2026-12-12,Guesthouse,Midtown,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTY0MDY1Mjg1MzE5NDAwNzc0Mg==,Park Prestige | 5BR Modern Family Home + Parking,43.64226,-79.45033,3115,4.94,5.0,4.5,for 5 nights,2026-09-20,2026-09-25,Home,Roncesvalles,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTc1ODcwNDYzMTA4Njg5MTQ5MQ==,Unique 3 Bedroom | Walk to CN Tower/Rogers Centre ,43.6443,-79.3894,1301,5.0,3.0,2.0,for 5 nights,2026-09-27,2026-10-02,Apartment,Downtown Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTY2MjUyMDI2MTE0MTU2NzI2OA==,Downsview Oasis,43.73104,-79.49885,461,5.0,1.0,1.0,for 5 nights,2026-10-30,2026-11-04,Guest suite,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6ODkxMjg1MzUwOTMxNzQ1MDAx,John-Peter Toronto,43.64532,-79.39051,1944,4.99,2.0,2.0,for 5 nights,2027-04-01,2027-04-06,Condo,Downtown Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTQ1NDI3MDUzMDg4Nzg1MDU4Nw==,Serene Garden Retreat,43.69047,-79.35737,456,4.9,,1.0,for 5 nights,2026-10-17,2026-10-22,Room,East York,$
+RGVtYW5kU3RheUxpc3Rpbmc6ODk0MDIwNjE3NTUwMjUxMTYz,Bright & Beautiful Single's Room,43.66415,-79.45867,222,4.93,,1.0,for 5 nights,2026-10-08,2026-10-13,Room,Junction Area,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTc0NDQwNDkyNjM2NTM0MjEyOA==,The Vertex Suites,43.6475,-79.3927,1241,,1.0,1.0,for 5 nights,2026-09-20,2026-09-25,Apartment,Downtown Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTc2ODIzMjUyNjQ4MTYxNDEyNw==,Practical Fort York Condo | Walk to The Bentway,43.637714340736046,-79.4061240517531,754,,1.0,1.0,for 5 nights,2026-09-27,2026-10-02,Apartment,Downtown Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTU3Njk4MjA2NTA5OTkxNTAwMw==,The Soho Brownstone - The City on Your Doorstep,43.65192,-79.394,4181,5.0,4.0,2.5,for 5 nights,2026-09-28,2026-10-03,Home,Downtown Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTcyODg5NzQyMTgyMzMxMjI4Mg==,Enjoy Stylish Yorkville Living + 1 Free Parking,43.67271847150765,-79.39129108045076,1049,5.0,1.0,1.0,for 5 nights,2026-10-02,2026-10-07,Apartment,Yorkville,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTI1NzY5NTI2ODU3NzcxMzg4OA==,Cozy Corner,43.67935,-79.4317,368,4.99,,1.0,for 5 nights,2026-10-18,2026-10-23,Room,Midtown,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTY2OTk0ODQ1OTU0NTY0NDAyOA==,Cozy King West Condo w/ Parking | Liberty Village,43.64174,-79.41341,1044,5.0,1.0,1.0,for 5 nights,2026-11-09,2026-11-14,Apartment,Liberty Village,$
+RGVtYW5kU3RheUxpc3Rpbmc6Njk0MDk4NjE1NTQwMTUzMTQ1,Bright west end 1-bedroom basement suite,43.66002,-79.44892,663,4.94,1.0,1.0,for 5 nights,2026-11-01,2026-11-06,Guest suite,Junction Triangle,$
+RGVtYW5kU3RheUxpc3Rpbmc6NzExMTI2NDcyODQyNDQ3MTgz,Newly Renovated - Private 1 Bedroom Basement Suite,43.6702,-79.3157,749,4.95,1.0,1.0,for 5 nights,2026-10-12,2026-10-17,Guest suite,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6ODA3MzE2MDgwNjEyNjAyMzI4,Beautiful 4 BR detached home in Vaughan,43.80596,-79.46048,1484,4.95,4.0,2.5,for 5 nights,2026-10-03,2026-10-08,Home,Vaughan,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTQxMTIzMzg3ODAzMTY2MDI4Nw==,Entire Apt | Separate Entrance | Parking & Laundry,43.6823,-79.296,442,5.0,,1.0,for 5 nights,2026-10-27,2026-11-01,Room,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTU3NjE4NjcwMDgyMTg3MDM3MQ==,Luxurious Rosedale suite!,43.68313,-79.37374,483,4.84,2.0,1.0,for 5 nights,2026-11-02,2026-11-07,Rooms,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTM1MTE3NTI4MTcyNTI2OTk3OQ==,Bright 1 Bedroom by the Lake,43.6326,-79.4866,677,4.98,1.0,1.0,for 5 nights,2026-09-26,2026-10-01,Home,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTY1MjI4MTA5OTI0NTEyOTMwOQ==,The Junction Comfort Stay - Near Downtown Toronto,43.6666,-79.4797,794,4.94,2.0,1.0,for 5 nights,2026-11-08,2026-11-13,Home,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTEzMTczNDQ1OTc0ODMzMzE0OA==,Large room with en-suite washroom,43.64228,-79.3916,598,4.86,,1.0,for 5 nights,2026-11-18,2026-11-23,Room,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTc3OTQyMzY=,3 Bedroom 2 Bath Waterfront Condo w Free Parking,43.64285,-79.38186,1741,4.92,3.0,2.0,for 5 nights,2026-11-07,2026-11-12,Condo,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTc0MTQwMjcwOTc0MTkxOTE1NQ==,Elegant 3BR Suite with Beautiful Living Room,43.6443,-79.3894,1608,,3.0,2.0,for 5 nights,2026-10-11,2026-10-16,Apartment,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6NzczOTgzMjQ5NTgyNTg4ODEz,Private room w/ private entrance,43.66424,-79.43706,333,4.77,,1.0,for 5 nights,2026-11-12,2026-11-17,Room,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6NzM5MDcyOA==,Brookfield Hideaway Guest Suite,43.64486,-79.42158,442,4.88,,1.0,for 5 nights,2026-11-02,2026-11-07,Room,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTczNTIwNjAwNzYxOTIxNzczMA==,Condo in Downtown Toronto ,43.642,-79.382,1292,4.75,2.0,1.5,for 5 nights,2026-10-17,2026-10-22,Apartment,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTc0OTY2MDA2NTUyOTk4NDY2Mg==,New Luxury Home Steps from Lake Ontario,43.59237,-79.53315,1569,5.0,4.0,3.5,for 5 nights,2026-09-14,2026-09-19,Home,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTcyNjU2NTUxOTkxMzg4OTI3Mw==,The Perfect Base for Exploring Toronto,43.64635,-79.39305,924,4.89,1.0,1.0,for 5 nights,2026-09-28,2026-10-03,Apartment,Downtown Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTc1Njc3ODczODM3MTQzMDgwNQ==,67th Floor Penthouse | 3BR Lake & City Views,43.64138,-79.39638,2433,,3.0,2.0,for 5 nights,2026-09-18,2026-09-23,Apartment,Downtown Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTcxOTY1NDE5NDc2NDk2ODcxMg==,Modern 1BR Retreat in Downtown Toronto,43.6475,-79.3927,1025,5.0,1.0,1.0,for 5 nights,2026-09-30,2026-10-05,Apartment,Downtown Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6ODM2MjA5NTQ3Mjg2ODQyMDk3,"Stunning Downtown Condo, Near St. Lawrence Market",43.65294,-79.37015,1175,4.87,1.0,1.0,for 5 nights,2026-10-08,2026-10-13,Condo,Downtown Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTc1MDkyNjA2OTAwMTQ5NTg1OQ==,Pine & Post,43.6475,-79.3927,1278,,1.0,1.0,for 5 nights,2026-09-27,2026-10-02,Apartment,Downtown Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MzUwNjA4Mzc=,Beautiful Modern Condo | 2BR + 2BA | 1000mbps Wifi,43.6419,-79.3817,1047,4.82,2.0,2.0,for 5 nights,2026-09-27,2026-10-02,Condo,Downtown Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTMzNDgxODg1NjY2Nzc5OTUzNA==,Penthouse | CN Tower Lake+Sunset Views | Sleeps 8,43.6453,-79.38867,2177,4.94,3.0,2.0,for 5 nights,2026-10-04,2026-10-09,Apartment,Downtown Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTYzNTMxODcwMDM5MjU0MTUwMA==,Bright and Breezy:Central Light Wood Suite+Parking,43.64173,-79.38251,1436,4.85,2.0,1.0,for 5 nights,2026-10-05,2026-10-10,Apartment,Downtown Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTc1MDE2MjA0MzYxMDc0NTcyNg==,Spacious 3 Bedroom Condo with Huge Private Patio,43.7678,-79.3732,939,,3.0,2.0,for 5 nights,2026-09-27,2026-10-02,Apartment,Bayview Village,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTczNTEzMzI2NjQ1MDczNDQ1MA==,Spacious 3BR Downtown Condo with Free Parking,43.64054003395719,-79.39900254565123,1466,4.91,3.0,2.0,for 5 nights,2026-09-27,2026-10-02,Apartment,Downtown Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTY5NDQ3NzM2Nzk2Mjc5MjUyNg==,Harbour Front Free Parking CN tower Downtown ,43.6398,-79.398,832,5.0,,1.0,for 5 nights,2026-09-27,2026-10-02,Room,Downtown Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6ODU3OTE1MjgxMTkxOTUwMTg2,Bathurst & Fort York,43.6375,-79.4009,423,4.95,,1.0,for 5 nights,2026-10-07,2026-10-12,Room,Downtown Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTYzMTM4Ng==,Private Room in Downtown Toronto RM3,43.66368,-79.44037,334,4.83,,1.5,for 5 nights,2026-10-19,2026-10-24,Room,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTY4NTE2Njg4OTMxNTM0NTM0OA==,Luxurious 4BR Oasis Walk to CN Tower Entertainment,43.6408,-79.3963,2506,5.0,4.0,3.0,for 5 nights,2026-09-27,2026-10-02,Apartment,Downtown Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTY0Mjg2OTMyMDM3NzAzMjE3Mw==,5 Bedroom Luxury Home-Toronto,43.77905,-79.43634,3312,5.0,5.0,4.5,for 5 nights,2026-09-22,2026-09-27,Home,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6ODYzMDU4MDMxMDc1NDczMzcx,Whole House 3BR Near Subway/Airport + Free Parking,43.6411,-79.5215,1103,4.99,3.0,1.5,for 5 nights,2026-11-12,2026-11-17,Home,Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTYxNzU1NTAzNTE1MDgzMTA3Mw==,"2,500 sq ft | Penthouse | Scotiabank Arena",43.6429,-79.3807,4683,4.82,3.0,3.0,for 5 nights,2026-10-01,2026-10-06,Condo,Downtown Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MjQwMTM4NjM=,Luxury 4BR | Sleeps 10 | Rooftop | Free Parking,43.6382,-79.41459,2489,4.82,4.0,2.5,for 5 nights,2026-09-20,2026-09-25,Townhouse,Liberty Village,$
+RGVtYW5kU3RheUxpc3Rpbmc6MjEyMzgzMjY=,3 Bedroom PENTHOUSE Downtown Toronto + Parking,43.64249,-79.383,1833,4.88,3.0,2.5,for 5 nights,2026-10-03,2026-10-08,Condo,Downtown Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTQxNTI0MTE5MjE3NTEyNzMzMQ==,Modern Condo | Breathtaking Views | CN Tower | BMO,43.644,-79.3893,1449,4.95,1.0,1.0,for 5 nights,2026-10-11,2026-10-16,Condo,Downtown Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6NzM3NTM4NDA1MDA4MzMyODg2,"Million Dollar Views, Free Parking,  WiFi",43.6422,-79.3805,1901,4.99,2.0,2.0,for 5 nights,2026-10-17,2026-10-22,Condo,Downtown Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTUzMDAw,Spacious 2BR|2BTH • Sleeps 8 •Near Rogers Centre,43.64532,-79.39075,1267,4.69,2.0,2.0,for 5 nights,2026-10-30,2026-11-04,Condo,Downtown Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTIxNDc3NzE1OTAxODQ0MDMyMA==,1 BR+Den|Parking & Pool|Union Station|CN Tower & Arena,43.6421,-79.3807,1245,4.91,2.0,1.0,for 5 nights,2026-10-27,2026-11-01,Condo,Downtown Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTE1NTkxNzI1NTY2NzIyNTE1MA==,Cozy CN Tower Sunset View Haven,43.6422,-79.3816,1009,4.8,2.0,1.0,for 5 nights,2026-11-15,2026-11-20,Apartment,Downtown Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTA5NTc1Mzc1MTI4MzE5MjM3Mw==,"Bright 2 BDRM Suite + Free Parking, CN Tower/MTCC",43.6417,-79.38079,939,4.81,2.0,1.0,for 5 nights,2026-10-25,2026-10-30,Condo,Downtown Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6Mjk2NzM4Mzk=,Grand & Luxurious Historic Home | Central Toronto,43.68016,-79.43338,6979,5.0,6.0,3.0,for 5 nights,2026-10-05,2026-10-10,Home,Midtown,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTY5ODgxMzU1MTEwNzc3NzkzMg==,Large Lakeview High Floor With 5 Queen Beds,43.64123,-79.39657,2795,4.75,3.0,2.5,for 5 nights,2026-10-16,2026-10-21,Condo,Downtown Toronto,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTUzODY4NDA4NzcyMTM4MzY2Mw==,Luxury Architectural Retreat ,43.6431,-79.4105,6238,4.95,4.0,5.0,for 5 nights,2026-09-20,2026-09-25,Home,Niagara,$
+RGVtYW5kU3RheUxpc3Rpbmc6MTE2MjMwMjAzNjc1ODY0ODM2Mg==,Bright and spacious Victorian. Central location.,43.64142,-79.42251,2119,4.97,3.0,2.5,for 5 nights,2026-10-11,2026-10-16,Home,West Queen West,$
