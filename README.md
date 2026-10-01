@@ -8,27 +8,24 @@ The Toronto Short-Term Rental Pricing Analyzer is a compact analytics pipeline t
 
 The project examines how advertised short-term rental prices vary across listings returned from a Toronto-area search.
 
-It brings raw API results into a reproducible analytical dataset and supports three views of the same cleaned snapshot:
+It turns nested API responses into a reproducible analytical dataset that supports three views of the same cleaned snapshot:
 
 - SQL analysis in PostgreSQL
-- statistical modeling with Python
+- statistical modeling in Python
 - interactive geographic and category-level exploration in Tableau
 
 The source reports advertised prices for five-night stays. The project analyzes listing prices rather than realized revenue, profit, or investment returns.
 
 ## Architecture
 
-```text
-RapidAPI
-    ↓
-bulk_airbnb_data.json
-    ↓
-Python cleaning
-    ↓
-cleaned_airbnb_data.csv
-    ├──→ Supabase PostgreSQL
-    ├──→ statsmodels HC3 OLS
-    └──→ Tableau
+```mermaid
+flowchart LR
+    A[RapidAPI] --> B[Raw JSON snapshot]
+    B --> C[Python cleaning]
+    C --> D[Cleaned CSV]
+    D --> E[Supabase PostgreSQL]
+    D --> F[statsmodels HC3 OLS]
+    D --> G[Tableau]
 ```
 
 The regression and Tableau workbook read the cleaned dataset directly. PostgreSQL is a separate analytical consumer of the same curated snapshot.
@@ -74,20 +71,24 @@ A practical takeaway is to use bedroom count as a market-segmentation variable w
 
 ## Tableau dashboard
 
-The Tableau dashboard provides two views of the corrected **149-listing** snapshot:
+The Tableau dashboard presents two views of the corrected **149-listing** snapshot:
 
-- **Advertised Price by Location:** listing-level map using price for mark size and colour
-- **Average Advertised Price by Bedrooms:** category comparison for listings with observed bedroom counts
+- **Advertised Price by Location:** a listing-level map using advertised price for mark size and colour
+- **Average Advertised Price by Bedrooms:** a category comparison for listings with observed bedroom counts
 
 The map retains listings with missing bedroom or rating metadata, while the bedroom comparison excludes unknown bedroom counts rather than treating them as zero.
 
-[View the Tableau dashboard](https://public.tableau.com/views/TorontoShort-TermRentalInvestmentAnalyzer/TorontoShort-TermRentalPricingAnalyzer)
+The dashboard also presents the corrected HC3 regression results and a cautious business recommendation based on the limits of the model.
+
+[View the published Tableau dashboard](https://public.tableau.com/views/TorontoShort-TermRentalInvestmentAnalyzer/TorontoShort-TermRentalPricingAnalyzer)
+
+[Tableau packaged workbook](tableau/Toronto%20Short-Term%20Rental%20Investment%20Analyzer.twbx)
 
 ## Repository structure
 
 | Path | Contents |
 | --- | --- |
-| `bulk_extract.py` | RapidAPI extraction and pagination |
+| `bulk_extract.py` | RapidAPI extraction, pagination, and response validation |
 | `clean_data.py` | JSON parsing, validation, deduplication, and cleaning |
 | `database_upload.py` | Validated atomic refresh into PostgreSQL |
 | `math_model.py` | HC3 OLS pricing analysis |
@@ -100,20 +101,22 @@ The map retains listings with missing bedroom or rating metadata, while the bedr
 
 ## Getting started
 
-Install the dependencies:
+Create a virtual environment and install the project dependencies:
 
 ```powershell
+py -3 -m venv .venv
+.\.venv\Scripts\Activate.ps1
 python -m pip install -r requirements.txt
 ```
 
-Rebuild the cleaned dataset and rerun the model:
+Rebuild the cleaned dataset from the saved API snapshot and rerun the statistical analysis:
 
 ```powershell
 python clean_data.py
 python math_model.py
 ```
 
-Run the tests:
+Run the test suite:
 
 ```powershell
 python -m pytest -q
@@ -131,14 +134,14 @@ Then run:
 python bulk_extract.py
 ```
 
-For database loading, initialize a fresh PostgreSQL database with:
+For a fresh PostgreSQL database, initialize the table and analytical view with:
 
 ```text
 schema.sql
 property_investment_rankings.sql
 ```
 
-Then set `DATABASE_URL` and run:
+Set `DATABASE_URL`, then run:
 
 ```powershell
 python database_upload.py
@@ -148,6 +151,8 @@ The uploader validates the cleaned dataset before replacing existing rows and pe
 
 `READONLY_DATABASE_URL` can be used for independent database verification.
 
+Credentials and local environment files are not stored in the repository.
+
 ## Testing
 
 The repository includes **11 focused tests** covering high-risk pipeline behavior such as:
@@ -156,10 +161,11 @@ The repository includes **11 focused tests** covering high-risk pipeline behavio
 - fractional bathrooms
 - missing bedroom counts
 - missing ratings
-- duplicate IDs
+- duplicate listing IDs
 - malformed records
 - empty inputs
-- extraction failure handling
+- extraction and pagination failures
+- protection against replacing a valid snapshot after an incomplete extraction
 
 The final validated build passes all 11 tests.
 
@@ -169,6 +175,6 @@ This is a saved Toronto-area search snapshot rather than a complete census of th
 
 Search dates vary across listings, currency is represented only by the source `$` symbol, and the dataset does not contain realized bookings, occupancy, operating costs, acquisition prices, or investment cash flows.
 
-The regression therefore analyzes **advertised stay price**, not revenue, profitability, or ROI.
+The regression therefore analyzes **advertised stay price**, not revenue, profitability, or ROI. The model also uses a relatively small complete-case sample and does not capture several potentially important pricing factors.
 
-Future extensions could incorporate a consistent booking window, richer property-type and location features, additional historical snapshots, and a broader sample for stronger price modeling.
+Future extensions could use a consistent booking window, richer location and property-type features, additional historical snapshots, and a broader sample for stronger price modeling.
